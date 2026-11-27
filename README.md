@@ -14,7 +14,7 @@ Configuration: dotenv
 Installation
 
 1. Clone the repository
-git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY.git
+git clone https://github.com/ANPTCSNG/WorkshopNodejs-inet.gi
 cd YOUR_REPOSITORY
 
 2. Install dependencies
@@ -25,7 +25,7 @@ Create a .env file in the project root:
 DB_HOST=127.0.0.1
 DB_PORT=27017
 DB_NAME=workshop1
-JWT_SECRET=your_secure_jwt_secret
+JWT_SECRET= Email please (anapattatae@gmail.com)
 
 4. Start MongoDB
 Ensure that the local MongoDB server is running.
